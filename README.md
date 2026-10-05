@@ -26,8 +26,7 @@ For GitHub Pages:
 4. Choose the `main` branch and save
 
 The site will be available at:
-https://TrebleWeight.github.io/innovation-business-website
-
+https://pensativitysolutions
 ## Contact
 Email: partnerships@pensativitysolutions.com
 
