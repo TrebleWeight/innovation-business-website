@@ -26,7 +26,7 @@ For GitHub Pages:
 4. Choose the `main` branch and save
 
 The site will be available at:
-https://pensativitysolutions
+https://pensativitysolutions.com
 ## Contact
 Email: partnerships@pensativitysolutions.com
 
