@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contracts | Pensativity Solutions LLC</title>
+    <meta name="description" content="Partnership structures and contract models for idea acquisition, commercialization, and strategic innovation deals with Pensativity Solutions LLC." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <div class="brand">
+          <span class="brand-mark">P</span>
+          <span>Pensativity Solutions LLC</span>
+        </div>
+        <nav class="main-nav" aria-label="Main navigation">
+          <a href="index.html#home">Home</a>
+          <a href="index.html#services">Services</a>
+          <a href="index.html#process">Process</a>
+          <a href="index.html#contact">Contact</a>
+          <a href="contracts.html">Contracts</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="section contracts-hero">
+        <div class="container">
+          <p class="eyebrow">Partnership models</p>
+          <h1>Flexible structures for buying, selling, and commercializing innovation.</h1>
+          <p class="intro">
+            Pensativity Solutions LLC tailors the contract to the opportunity—whether the goal is licensing, acquisition, strategic partnership,
+            or commercialization support for your innovation.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-alt">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Available models</p>
+            <h2>Choose the structure that fits the deal.</h2>
+          </div>
+
+          <div class="card-grid">
+            <article class="info-card">
+              <div class="icon">📄</div>
+              <h3>Licensing agreement</h3>
+              <p>Ideal when an idea, invention, or protected concept is worth commercializing without a full acquisition.</p>
+            </article>
+
+            <article class="info-card">
+              <div class="icon">🤝</div>
+              <h3>Joint venture</h3>
+              <p>Best when both parties want shared upside, operational alignment, and a defined path to market.</p>
+            </article>
+
+            <article class="info-card">
+              <div class="icon">🧪</div>
+              <h3>R&amp;D services</h3>
+              <p>Suitable for internal teams that need external development, market validation, and commercialization support.</p>
+            </article>
+
+            <article class="info-card">
+              <div class="icon">⚖️</div>
+              <h3>Hybrid model</h3>
+              <p>Combines upfront value with staged earn-outs or revenue participation to balance risk and reward.</p>
+            </article>
+
+            <article class="info-card">
+              <div class="icon">💸</div>
+              <h3>Acquisition</h3>
+              <p>Used when the opportunity has strategic value and a direct purchase structure makes sense for both sides.</p>
+            </article>
+
+            <article class="info-card">
+              <div class="icon">📈</div>
+              <h3>Commercialization partner</h3>
+              <p>Designed for companies looking to launch faster through structured execution, market planning, and distribution support.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Key terms</p>
+            <h2>What matters in a fair agreement.</h2>
+          </div>
+
+          <div class="feature-list contracts-terms">
+            <div class="feature-item">
+              <span>✓</span>
+              <div>
+                <h3>IP ownership</h3>
+                <p>Clear definitions for existing ownership, licensed rights, and commercial usage of the innovation.</p>
+              </div>
+            </div>
+
+            <div class="feature-item">
+              <span>✓</span>
+              <div>
+                <h3>Commercial terms</h3>
+                <p>Upfront fees, milestone payouts, revenue share, and value-based milestones are clearly structured.</p>
+              </div>
+            </div>
+
+            <div class="feature-item">
+              <span>✓</span>
+              <div>
+                <h3>Confidentiality</h3>
+                <p>Mutual non-disclosure protections and secure handling of proprietary information during due diligence.</p>
+              </div>
+            </div>
+
+            <div class="feature-item">
+              <span>✓</span>
+              <div>
+                <h3>Milestones</h3>
+                <p>Defined phases for validation, product development, launch readiness, and performance benchmarks.</p>
+              </div>
+            </div>
+
+            <div class="feature-item">
+              <span>✓</span>
+              <div>
+                <h3>Termination &amp; dispute process</h3>
+                <p>Clear exit conditions and escalation paths reduce tension if circumstances change.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section testimonial-section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Simple process</p>
+            <h2>How we move from discussion to action.</h2>
+          </div>
+
+          <div class="timeline">
+            <div class="step">
+              <span>1</span>
+              <div>
+                <h3>Intro call</h3>
+                <p>We discuss the opportunity, pace of execution, and commercial objectives.</p>
+              </div>
+            </div>
+
+            <div class="step">
+              <span>2</span>
+              <div>
+                <h3>Initial review</h3>
+                <p>We assess the concept, the market, and the most practical deal structure.</p>
+              </div>
+            </div>
+
+            <div class="step">
+              <span>3</span>
+              <div>
+                <h3>Term sheet</h3>
+                <p>We align on the economics, rights, responsibilities, and key commercial terms.</p>
+              </div>
+            </div>
+
+            <div class="step">
+              <span>4</span>
+              <div>
+                <h3>Execution</h3>
+                <p>We formalize the agreement and begin the commercialization or development roadmap.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section contact-section">
+        <div class="container contact-wrap">
+          <div class="contact-copy">
+            <p class="eyebrow">Ready to begin?</p>
+            <h2>Tell us what you want to sell, build, or partner on.</h2>
+            <p>We can discuss licensing, acquisition, joint venture, or development partnership structures.</p>
+          </div>
+
+          <form class="contact-form" id="contractForm">
+            <label>
+              Your name
+              <input type="text" placeholder="Your name" required />
+            </label>
+
+            <label>
+              Email
+              <input type="email" placeholder="you@example.com" required />
+            </label>
+
+            <label>
+              Company / organization
+              <input type="text" placeholder="Company or organization" />
+            </label>
+
+            <label>
+              Opportunity type
+              <select required>
+                <option value="">Select one</option>
+                <option value="license">Licensing</option>
+                <option value="venture">Joint venture</option>
+                <option value="rd">R&amp;D services</option>
+                <option value="acquire">Acquisition</option>
+                <option value="other">Other</option>
+              </select>
+            </label>
+
+            <label>
+              Brief description
+              <textarea rows="5" placeholder="Describe the business opportunity or innovation" required></textarea>
+            </label>
+
+            <button class="btn btn-primary" type="submit">Request contract discussion</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <span>© 2024 Pensativity Solutions LLC</span>
+        <span>Commercialization. Partnership. Growth.</span>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
